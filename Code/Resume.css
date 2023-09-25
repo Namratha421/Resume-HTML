@@ -1,0 +1,92 @@
+div{
+  background-color: rgb(253, 244, 244);
+}
+
+.class1{
+  background-color: rgb(9, 9, 125);
+  border: 2px solid rgb(8, 8, 141);
+}
+
+h1 {
+  color: white;
+  margin-top: 40px;
+  margin-left: 90px;
+}
+
+
+.class2{
+  background-color:aliceblue;
+}
+
+img{
+  height: 179px;
+  border-radius: 50%;
+}
+
+nav{
+  text-align: justify;
+  line-height: 35px;
+}
+
+.class3{
+  border-radius: 10px;
+  background-color:aliceblue;
+
+}
+
+.class4{
+  color: rgb(20, 20, 141);
+  text-align: left;
+  font-size:large;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.class5{
+  text-align: justify;
+  line-height: 23px;
+  min-height: 23px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color:aliceblue;
+
+}
+
+h2{
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.class6{
+  border-radius: 10px;
+  margin-left: 604px;
+  margin-top: -1079px;
+  background-color: aliceblue;
+}
+
+a{
+  font-size:15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+ol{
+  list-style-type: none;
+  list-style-position: outside;
+}
+
+.class7{
+  text-align: justify;
+  line-height: 30px;
+  min-height: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+label{
+  text-align: justify;
+  line-height: 26px;
+  min-height: 26px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
